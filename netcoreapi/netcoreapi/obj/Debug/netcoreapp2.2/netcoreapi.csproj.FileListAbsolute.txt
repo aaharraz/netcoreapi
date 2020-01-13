@@ -1,0 +1,16 @@
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\appsettings.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\netcoreapi.deps.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\netcoreapi.runtimeconfig.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\netcoreapi.runtimeconfig.dev.json
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\netcoreapi.dll
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\bin\Debug\netcoreapp2.2\netcoreapi.pdb
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.csprojAssemblyReference.cache
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.RazorAssemblyInfo.cache
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.RazorAssemblyInfo.cs
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.AssemblyInfoInputs.cache
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.AssemblyInfo.cs
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.RazorTargetAssemblyInfo.cache
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.dll
+U:\Cathedral\test\netcoreapi\netcoreapi\netcoreapi\obj\Debug\netcoreapp2.2\netcoreapi.pdb
